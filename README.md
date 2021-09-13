@@ -22,5 +22,8 @@
 2021年9月12
 
 
+https://github.com/km3xy/5d/wiki
+
 Welcome to the 5d wiki!
+
 
